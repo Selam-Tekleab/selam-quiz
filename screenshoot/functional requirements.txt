@@ -1,0 +1,16 @@
+	Functional requirements
+
+Ability to add a new contact with fields for first name, last name, company, job title, one or more phone numbers, and one or more email addresses.
+
+Ability to update existing contacts' information, including first name, last name, company, job title, phone numbers, and email addresses.
+
+Ability to delete contacts from the application.
+
+Ability to search for contacts based on first name, last name, company, job title, phone numbers, or email addresses.
+
+Ability to merge duplicate contacts, ensuring that no redundant information is present in the application.
+
+Ability to display contacts in a human-readable format, such as JSON.
+
+Ability to handle errors gracefully, such as invalid input or missing contact information.
+
