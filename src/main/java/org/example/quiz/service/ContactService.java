@@ -7,7 +7,8 @@ import java.util.List;
 
 public class ContactService {
     private ContactRepository contactRepository;
-    public List<Contact> getAllContacts(){
+
+    public List<Contact> getAllContacts() {
         return contactRepository.getAllContacts();
     }
 
